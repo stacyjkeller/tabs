@@ -40,7 +40,7 @@ export default function Home() {
           aria-controls="tabpanel=0"
           aria-selected={activeTab === 0 ? true : false}
         >
-          HTML
+          HTM
         </button>
         <button
           onClick={handleCssClick}
